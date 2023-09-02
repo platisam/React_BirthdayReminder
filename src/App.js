@@ -1,5 +1,9 @@
+import React, { ueState } from "react";
+import data from "./data";
+import List from "./List";
+
 function App() {
-  return <div className="App">Birthday</div>;
+  return <h2>reminder project setup</h2>;
 }
 
 export default App;
